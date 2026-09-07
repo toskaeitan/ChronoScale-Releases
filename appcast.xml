@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
-<title>ChronoScale updates</title><item><title>ChronoScale 0.5.4</title>
-<pubDate>Sun, 06 Sep 2026 03:48:29 GMT</pubDate><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/toskaeitan/ChronoScale-Releases/releases/download/v0.5.4/ChronoScale-macOS-Apple-Silicon-0.5.4.dmg" sparkle:version="15" sparkle:shortVersionString="0.5.4" sparkle:edSignature="4ANUQoHEHoiiUsf05ObL7XPeghajw3Pfn3dr14h/zriHrtXfv/hnEHdKA5NKsIkjWhwRLB8X7e/xxN4E86imAA==" length="3022415" type="application/octet-stream"></enclosure>
+<title>ChronoScale updates</title><item><title>ChronoScale 0.5.5</title>
+<pubDate>Mon, 07 Sep 2026 05:39:06 GMT</pubDate><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/toskaeitan/ChronoScale-Releases/releases/download/v0.5.5/ChronoScale-macOS-Apple-Silicon-0.5.5.dmg" sparkle:version="16" sparkle:shortVersionString="0.5.5" sparkle:edSignature="PcvUiOPnBX4KNJgCHes3sxBIPt94jD9CLJObV0E2Ze11lVT6SoBs+elALtiXJPjWqRJXpn1/MibUrKD+w0hFAw==" length="3051485" type="application/octet-stream"></enclosure>
 </item></channel></rss><!-- sparkle-signatures:
-edSignature: bADs0nAcsZDidkgGSupKgfJ2HaY91s8AdzHPrcUuaYljNnigttXRYS0ceZCL7FDete2S4LQdf0ngdywXj3QwAQ==
+edSignature: fxX9Lr2rzgeWPTlgS4ibxvzkUDaL9OcD9M4msQOnjaKNJ7fOoYBsVR6aNvaBqVon6F+ADcEuZ+cTX0Ap67vpDQ==
 length: 962
 -->
