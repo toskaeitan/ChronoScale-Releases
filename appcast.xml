@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
-<title>ChronoScale updates</title><item><title>ChronoScale 0.5.6</title>
-<description>增加mgc历史研究估计、多轮预定功能；修复Windows预定显示及跨屏恢复；支持保留持仓更新，安装期间暂停软件TP监控。</description>
-<pubDate>Wed, 09 Sep 2026 06:59:26 GMT</pubDate><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/toskaeitan/ChronoScale-Releases/releases/download/v0.5.6/ChronoScale-macOS-Apple-Silicon-0.5.6.dmg" sparkle:version="21" sparkle:shortVersionString="0.5.6" sparkle:edSignature="oN+X4ivrFle4Ghv7GVntexp8QFBGKceU+PXEPjlI7lCmHnPk8ADNV7c1BJs0OPclksk+DTBkTOrHbl/u62oICg==" length="37204556" type="application/octet-stream"></enclosure>
+<title>ChronoScale updates</title><item><title>ChronoScale 0.5.7</title>
+<description>修复首轮启动前短暂读取失败后误跳下一轮；改善Windows窗口恢复与计划合约准备时机。包含MGC研究、多轮预定与持仓更新。</description>
+<pubDate>Wed, 09 Sep 2026 10:45:54 GMT</pubDate><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/toskaeitan/ChronoScale-Releases/releases/download/v0.5.7/ChronoScale-macOS-Apple-Silicon-0.5.7.dmg" sparkle:version="24" sparkle:shortVersionString="0.5.7" sparkle:edSignature="+0HTlkbpyZehsa5GADry0BeaJQwrpKl9B/WlQlX+Mn9L2ZChY5dgGZ9Gd2oLCrvf8Dw+I+6VF74DmOUzM/0jCw==" length="37205252" type="application/octet-stream"></enclosure>
 </item></channel></rss><!-- sparkle-signatures:
-edSignature: SwZp+36nDikhTTmRz/0cQXQ2XRYiL4VGA4qGWFWSRIfnK+d3eNz+3R7aPmO1PxarlcHFm1jqeP7+rKyfkKfaAA==
-length: 1147
+edSignature: 01lSv74ufKZ4mXVX0npCfh70FWDWLoSCUgwqO/otRquj/cNGklpqcyTsSC7OFYUjaATtPBAcO3nNhOFK/psiDw==
+length: 1154
 -->
